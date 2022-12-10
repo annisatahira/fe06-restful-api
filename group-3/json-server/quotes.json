@@ -1,0 +1,28 @@
+{
+  "quotes": [
+    {
+      "id": 1,
+      "anime": "Attack on Titan",
+      "character": "Annie Leonhardt",
+      "quote": "You are saying that innately, all people are good, and if they were to just assume their nature, this organization wouldn't be so rotten, right? But in my opinion, the structure of the organization, the way it is set up is what provides insight into what the true human nature really is."
+    },
+    {
+      "id": 2,
+      "anime": "Psycho-Pass",
+      "character": "Makishima Shougo",
+      "quote": "In order to measure a person’s worth, you must do more than push them. The real way to test their worth is to give them power. When they gain the freedom to act outside the boundaries of law and ethics, you can sometimes see their souls. When the weak become strong... When good citizens become free to engage in violence... I'm interested to see what is the outcome of that."
+    },
+    {
+      "id": 3,
+      "anime": "Fullmetal Alchemist",
+      "character": "Van Hohenheim",
+      "quote": "[To Father] You've certainly mellowed out... you used to be fun, full of life and emotion. Lust, Greed, Sloth, Gluttony, Envy, Wrath, and Pride. Of course, excessive want will destroy anyone, but those same desires are necessary to understand what it means to be human. Why did you rid yourself of them?"
+    },
+    {
+      "anime": "Soul Eater",
+      "character": "Soul Evans",
+      "quote": "In the end the shape and form do",
+      "id": 5
+    }
+  ]
+}

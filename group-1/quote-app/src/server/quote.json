@@ -1,0 +1,40 @@
+{
+  "quotes": [
+    {
+      "id": 1,
+      "anime": "The Melancholy of Haruhi Suzumiya",
+      "character": "Kyon",
+      "quote": "If your face gets any closer, someone who isn't supposed to be in this scene is going to come over there and kick your ass!"
+    },
+    {
+      "id": 2,
+      "anime": "Attack on Titan",
+      "character": "Mikasa Ackerman",
+      "quote": "Believe in your own power."
+    },
+    {
+      "id": 3,
+      "anime": "Kaichou Wa Maid-Sama!",
+      "character": "Misaki Ayuzawa",
+      "quote": "The aura of offensive smell has come to such a strong extent that you can even see it!!"
+    },
+    {
+      "id": 5,
+      "anime": "Hyouka",
+      "character": "Fuyumi Irisu",
+      "quote": "Every individual must be aware of themselves. If not, those who watch them think fools of themselves."
+    },
+    {
+      "id": 4,
+      "anime": "Attack on Titan",
+      "character": "Levi Ackerman",
+      "quote": "The Strongets"
+    },
+    {
+      "anime": "Attack on Titan",
+      "character": "Levi Ackerman",
+      "quote": "Believe in your own power.",
+      "id": 6
+    }
+  ]
+}

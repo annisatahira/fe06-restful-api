@@ -1,0 +1,28 @@
+{
+  "quotes": [
+    {
+      "anime": "Fullmetal",
+      "character": "Alphonse Elric",
+      "quote": "On the day we left, we burned down the family home and all the familiar things inside. Because some memories aren't meant to leave traces.",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "anime": "Naruto",
+      "character": "Nagato",
+      "quote": "If you don't share someone's pain. You can never understand them."
+    },
+    {
+      "id": 3,
+      "anime": "Natsume",
+      "character": "Takashi Natsume",
+      "quote": "They are those who come and go as they please. Even so, once you come to know them, even though there's no one else who notices them, it's a precious encounter that will keep your heart strong."
+    },
+    {
+      "anime": "Serial Experiments Lain",
+      "character": "Serial Experiments Lain",
+      "quote": "History is not merely a linear collection of points that we pass through on a timeline. They are connected by a line. No, perhaps it is more accurate to say that they are made to connect.",
+      "id": 5
+    }
+  ]
+}

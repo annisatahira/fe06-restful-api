@@ -1,0 +1,34 @@
+{
+  "quotes": [
+    {
+      "id": 3,
+      "anime": "White Album 2",
+      "character": "Touma Kazusa",
+      "quote": "We finally became friends. I've said everything I wanted to say. Now we know everything about each other. Though, from the moment we become friends, we'll never speak to each other again."
+    },
+    {
+      "id": 4,
+      "anime": "Toradora!",
+      "character": "Minori Kushieda",
+      "quote": "Crying is a nosebleed of the heart."
+    },
+    {
+      "anime": "New Anime",
+      "character": "New Char",
+      "quote": "New Quote",
+      "id": 5
+    },
+    {
+      "anime": "New Anime 2",
+      "character": "New Char 2",
+      "quote": "New Quote 2",
+      "id": 6
+    },
+    {
+      "anime": "New Anime 3",
+      "character": "New Char 3",
+      "quote": "New Quote 3",
+      "id": 7
+    }
+  ]
+}
